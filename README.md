@@ -10,3 +10,5 @@ In this tutorial we will try to:
 - Push / Pull
 - Change
 - Show history
+
+# Collaborators
